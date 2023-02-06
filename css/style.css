@@ -223,7 +223,7 @@ body {
 }
 
 .hero-inner-wrapper {
-    background-image: url(../img/fresh-melientha-suavis-pierre-leaves-white-surface.png);
+    background-image: url(../img/fresh-melientha-suavis-pierre-leaves-white-surface.webp);
     background-repeat: no-repeat;
     background-position: left top;
     padding: 93px 0 33px 0;
@@ -467,7 +467,7 @@ body {
 .service-img {
     width: 569px;
     height: 569px;
-    background-image: url(../img/elips-fruit.png), url(../img/Ellipse-bg.png);
+    background-image: url(../img/elips-fruit.webp), url(../img/Ellipse-bg.webp);
     background-repeat: no-repeat;
     padding-top: 31px;
     background-position: bottom 76px center, right 0 center;
@@ -529,7 +529,7 @@ body {
 
 .vegetable-inner-wrapper {
     padding: 89px 0 143px 0;
-    background-image: url(../img/fresh-melientha-suavis-pierre-leaves-white-surface.png);
+    background-image: url(../img/fresh-melientha-suavis-pierre-leaves-white-surface.webp);
     background-repeat: no-repeat;
     background-position: right 50px bottom;
     background-size: auto;
