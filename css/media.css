@@ -3,6 +3,10 @@
         padding-left: 10px;
         padding-right: 10px;
     }
+    
+    .service-link {
+        display: none;
+    }
 
     /* .header__fixed {
         padding: 50px 10px 43px 10px;
@@ -214,12 +218,6 @@
         background-position: bottom 0px center;
         background-size: auto;
     }
-
-    .service-link {
-        display: none;
-    }
-    
-    
 }
 
 
